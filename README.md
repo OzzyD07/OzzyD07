@@ -1,2 +1,4 @@
-<h1 style="text-align:center;">Ozancan DEĞİRMENCİ</h1>
+<div style="text-align:center;">
+<h1 >Ozancan DEĞİRMENCİ</h1>
+</div>
 
